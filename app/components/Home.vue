@@ -16,7 +16,7 @@
                 @tap="onDrawerButtonTap"
                 ios.position="left">
             </ActionItem>
-            <Label class="action-bar-title" text="Home"></Label>
+            <Label class="action-bar-title" text="Home test"></Label>
         </ActionBar>
 
         <GridLayout class="page__content">
