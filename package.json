@@ -13,7 +13,7 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "@nativescript/theme": "~2.3.3",
-    "nativescript-remote-builds": "1.1.0",
+    "nativescript-remote-builds": "https://github.com/NativeScript/nativescript-remote-builds/tarball/master",
     "nativescript-ui-sidedrawer": "~8.0.0",
     "nativescript-vue": "~2.5.0",
     "rxjs": "^6.4.0",
