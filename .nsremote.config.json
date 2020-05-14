@@ -1,5 +1,5 @@
 {
     "circleci": {
-        "sshRepositoryURL": "ssh://git@github.com:pfmarques/SIIEApp.git"
+        "sshRepositoryURL": "git@github.com:pfmarques/SIIEApp.git"
     }
 }
